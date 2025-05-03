@@ -44,7 +44,8 @@ A Dart implementation of a Tabu Search algorithm for the Multiple-choice Multidi
 
 ## 🚀 Getting Started
 
-1. Install Dart SDK ≥ 2.18  
-2. Run:  
+1. Install Dart SDK ≥ 2.18
+2. Change instance name
+3. Run:  
    ```bash
-   dart run bin/main.dart --instance data/your_instance.mmkp
+   dart run bin/solution.dart
